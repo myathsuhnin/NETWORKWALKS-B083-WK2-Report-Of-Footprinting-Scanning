@@ -1,4 +1,4 @@
-# Week 2 — Footprinting & Network Scanning
+# Week 2 - Footprinting & Network Scanning
 
 Cybersecurity & Ethical Hacking internship at **Networkwalks** — Week 2 practical modules covering reconnaissance/footprinting and local network scanning.
 
