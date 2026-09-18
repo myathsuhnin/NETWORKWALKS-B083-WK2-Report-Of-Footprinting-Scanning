@@ -6,7 +6,7 @@ Cybersecurity & Ethical Hacking internship at **Networkwalks** — Week 2 practi
 |---|---|
 | **Modules** | W2-PM1 (Multiple Kali Tools) · W2-PM5 (Zenmap Scanning) |
 | **Target** | `networkwalks.com` (written permission secured) · own local LAN |
-| **Report** | [`W2_Report_Footprinting_Zenmap.pdf`](./reports/W2_Report_Footprinting_Zenmap.pdf) |
+| **Report** | [`W2_Report_Footprinting_Zenmap.pdf`](./W2_Report_Footprinting_Zenmap.pdf) |
 
 > ⚠️ All testing was performed only against systems I own or had explicit written permission to test. See the full report for the liability disclaimer.
 
